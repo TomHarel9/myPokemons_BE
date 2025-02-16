@@ -38,7 +38,7 @@ Setup Instructions
 
 Clone the Repository
 
-git clone <your-repo-url>
+git clone https://github.com/TomHarel9/myPokemons_BE.git
 
 Install Dependencies
 
@@ -48,7 +48,7 @@ Set Up Environment Variables
 Create a .env file in the root of the project and add the following:
 
 PORT=3001
-MONGODB_CONNECTION_STRING=mongodb+srv://your-mongo-uri
+MONGODB_CONNECTION_STRING={{ Sent separately }}
 
 Start the Server
 
