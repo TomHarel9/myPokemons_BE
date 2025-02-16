@@ -1,0 +1,5 @@
+{
+    "prettier.configPath": "/Users/hannyruas/Desktop/projects/MyPoke/Backend/.prettierrc.json",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
